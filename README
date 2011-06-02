@@ -1,0 +1,12 @@
+######################################
+C implementation of uvi_wave functions
+######################################
+
+These are some C optimized versions of uvi_wave matlab functions.
+
+The uvi_wave toolbox seems to have slipped out of maintenance.  You can
+apparently still get it here:
+
+http://www.control.auc.dk/~alc/html/uvi_wave_toolbox.html
+
+.. vim: ft=rst
